@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+
 const STSchema = new Schema({
     drogariaRua: {
       type: String
